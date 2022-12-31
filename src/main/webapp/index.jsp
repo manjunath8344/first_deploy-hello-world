@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>devops class!</title>
+<title>new project!</title>
 </head>
 <body>
 	<h1>testing new!</h1>
